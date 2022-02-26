@@ -19,5 +19,6 @@ h3 {
   font-weight: bold;
 }
 p {
+  margin-left: 20px;
   font-family: 'Praise', cursive;
 }
